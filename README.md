@@ -4,9 +4,11 @@ data set from kaggle:
 
 https://www.kaggle.com/chinapage/china-mobile-user-gemographics
 
-## Descriptive Analysis
+## Logistic Regression Results
 
 ![alt text](https://github.com/shashi-dhuppe/mobile_usage_traffic/blob/master/descriptive_analytics/lr_roc.jpeg)
+
+## Descriptive Analysis
 
 ![alt text](https://github.com/shashi-dhuppe/mobile_usage_traffic/blob/master/descriptive_analytics/line_hour.jpeg)
 
