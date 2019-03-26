@@ -10,7 +10,11 @@ https://www.kaggle.com/chinapage/china-mobile-user-gemographics
 
 ## Descriptive Analysis
 
+### Line graph representing daily device activity
+
 ![alt text](https://github.com/shashi-dhuppe/mobile_usage_traffic/blob/master/descriptive_analytics/line_hour.jpeg)
+
+### Bar plot depicting group relationship
 
 ![alt text](https://github.com/shashi-dhuppe/mobile_usage_traffic/blob/master/descriptive_analytics/group_bar.jpeg)
 
